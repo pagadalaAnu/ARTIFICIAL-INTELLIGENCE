@@ -4,3 +4,5 @@
 [ipynb](https://github.com/pagadalaAnu/ARTIFICIAL-INTELLIGENCE.git)
 # Minor project.py
 [.py](https://github.com/pagadalaAnu/ARTIFICIAL-INTELLIGENCE.git)
+# Major project.ipynb
+[ipynb](https://github.com/pagadalaAnu/ARTIFICIAL-INTELLIGENCE.git)
